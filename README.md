@@ -19,3 +19,5 @@ allprojects {
 ```gradle
 implementation 'damon.ll.widgetlibs:llwidgets:1.0.1'
 ```
+* 3. 参考
+https://github.com/damonxiao/MyWidgetDemo/blob/master/README.md
